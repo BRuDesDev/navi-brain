@@ -1,25 +1,9 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🤖 NäVî Personal Assistant
 
-Description of the app ...
+Nävî is a custom, Raspberry Pi–based AI assistant crafted for personal use and convenience. By leveraging voice activation (“Hey Nävî”), it captures audio input, converts it to text, and processes requests through a GPT-based model to provide intelligent, context-aware responses. Results are then relayed back through text-to-speech (Amazon Polly), creating a fully integrated voice assistant solution.
 
-## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
-
-## GitHub Codespaces
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
-
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+Beyond basic voice interactions, Nävî's extensible architecture supports advanced use cases including:
+      * Network Monitoring and Intrusion Detection (IDS) for home networks
+      * Camera-based security integration
+      * IoT device management and control
